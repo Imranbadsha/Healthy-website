@@ -1,0 +1,42 @@
+body{
+    font-family: 'Oswald', sans-serif;
+        font-family: 'Source Sans Pro', sans-serif;
+}
+.first-div{
+    display: flex;
+    margin-top: 20px;
+}
+.first-div h1{
+    font-size: 80px;
+    color: rgb(90, 85, 85);
+}
+.first-div p {
+    font-size: 20px;
+    color: rgb(90, 85, 85);
+}
+.first-div-child
+{
+    padding-left: 50px;
+    margin-left: 40px;
+    padding-top: 50px;
+    margin-top: 80px;
+}
+#orange-text{
+    color: orange;
+}
+.button{
+    font-size: 30px;
+    font-weight: 400;
+    text-decoration: none;
+    padding: 15px 30px;
+    background-image: linear-gradient(orange,tomato) ;
+    color: aliceblue;
+    border-radius: 35px;
+}
+.first-div-sec{
+    background-image: url(images/shapes/Group\ 8447.png);
+    background-repeat: no-repeat;
+}
+#hero{
+    width: 100%;
+}
