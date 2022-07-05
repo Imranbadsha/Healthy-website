@@ -21,7 +21,7 @@ body{
     padding-top: 50px;
     margin-top: 80px;
 }
-#orange-text{
+.orange-text{
     color: orange;
 }
 .button{
@@ -113,4 +113,19 @@ padding-right: 30px;
 .box-para{
     text-align: center;
     font-size: 30px;
+}
+.last{
+    text-align: center;
+    background-color: black;
+    margin-top: 5%;
+    height: 200px;
+    width: 100%;
+}
+.last h1{
+    font-size: 70px;
+    color: gray;
+}
+.last p {
+color: aliceblue; 
+font-size: larger;
 }
